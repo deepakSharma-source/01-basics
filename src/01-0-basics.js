@@ -55,17 +55,21 @@ const y = 10;
 
 function logAddition() {
   // 2. Log the sum of x and y.
+  console.log(x + y);
 }
 function logSubtraction() {
   // 3. Log the x subtracted from y
+  console.log( y - x);
 }
 
 function logMultiplication() {
   // 4. Log the product of x and y.
+  console.log(x * y);
 }
 
 function logDivision() {
   // 5. Log the quotient when x is divided by y.
+  console.log(x / y);
 }
 
 /**
